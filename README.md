@@ -46,4 +46,37 @@ Priorizar simplicidade sobre completude.
 - Agente Financeiro com tom educativo e acessível
 
 ---
+## 🔍 Reflexão sobre o Processo
 
+### ✅ O que funcionou bem
+- A abordagem conversacional reduziu a fricção inicial do uso
+- Registrar gastos em linguagem natural é mais intuitivo para iniciantes
+- O uso de um PRD claro ajudou a IA a gerar um MVP mais alinhado à ideia
+- Limitar o escopo evitou complexidade desnecessária
+
+---
+
+### ⚠️ O que não funcionou como o esperado
+- A classificação automática pode errar em alguns contextos
+- A experiência depende muito da clareza da primeira mensagem do agente
+- Sem métricas avançadas, a validação inicial depende de testes manuais
+- A IA tende a extrapolar funcionalidades se o prompt não for bem delimitado
+
+---
+
+### 🧠 O que aprendi sobre conversar com IAs
+- IAs seguem instruções, não intenções implícitas
+- Definir claramente o escopo é essencial
+- Dizer o que **não** deve ser feito é tão importante quanto dizer o que deve
+- Um bom PRD melhora significativamente a qualidade da entrega
+- Conversar com IA é um exercício de clareza e pensamento estruturado
+
+---
+---
+
+## 🔗 Link do App
+👉 https://convo-finance.lovable.app
+
+---
+## 🚀 Conclusão
+Este projeto demonstra como experiências conversacionais podem ser aplicadas em soluções financeiras simples, especialmente para usuários iniciantes. O foco do MVP não é ser completo, mas validar o uso prático e o comportamento do usuário.
