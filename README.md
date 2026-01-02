@@ -46,3 +46,4 @@ Priorizar simplicidade sobre completude.
 - Agente Financeiro com tom educativo e acessível
 
 ---
+
